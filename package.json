@@ -1,18 +1,76 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@ellentorg/voluptatum-asperiores-beatae",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "ellentea",
   "license": "MIT",
+  "dependencies": {
+    "@ellentorg/congenial-giggle": "^1.0.9",
+    "@ellentorg/eaque-occaecati-libero": "^1.0.0",
+    "@ellentorg/exercitationem-nobis-quibusdam": "^1.0.0",
+    "@ellentorg/explicabo-non-soluta": "^1.0.0",
+    "@ellentorg/friendly-succotash": "^1.0.9",
+    "@ellentorg/iusto-fuga-natus": "^1.0.0",
+    "@ellentorg/jubilant-tribble": "^1.1.8",
+    "@ellentorg/literate": "^1.1.8",
+    "@ellentorg/officiis-reprehenderit-quis": "^1.0.0",
+    "@ellentorg/stunning-funicular": "^2.1.7",
+    "@ellentorg/voluptatibus-voluptates-qui": "^1.0.0"
+  },
+  "keywords": [
+    "ECMAScript 2020",
+    "channel",
+    "es2016",
+    "classnames",
+    "fast",
+    "importexport",
+    "redux",
+    "getOwnPropertyDescriptor",
+    "setPrototypeOf",
+    "from",
+    "prop",
+    "resolve",
+    "styleguide",
+    "ES6",
+    "limit",
+    "traverse",
+    "autoprefixer",
+    "id",
+    "JSON",
+    "sameValueZero",
+    "status",
+    "escape",
+    "querystring",
+    "hot",
+    "parents",
+    "input",
+    "width",
+    "has-own",
+    "mime-db",
+    "cjk",
+    "getintrinsic",
+    "queue",
+    "autoscaling",
+    "callback",
+    "scheme-validation",
+    "eslint-plugin",
+    "error-handling",
+    "terminal",
+    "browserslist",
+    "global",
+    "es",
+    "Observables",
+    "joi",
+    "trimRight"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/ellentorg/voluptatum-asperiores-beatae.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/ellentorg/voluptatum-asperiores-beatae/#readme",
+  "bugs": {
+    "url": "https://github.com/ellentorg/voluptatum-asperiores-beatae/issues"
   }
 }
